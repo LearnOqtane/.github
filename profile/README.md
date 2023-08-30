@@ -1,4 +1,5 @@
-## LEARN | BUILD | DEPLOY | MONETIZE modules and themes on top of the Oqtane which is an open-source and cross-platform CMS and application framework
+## LEARN | BUILD | DEPLOY | MONETIZE
+## Modules and Themes on top of the Oqtane which is an open-source and cross-platform CMS and application framework
 
 Over the past few months, I have been learning Oqtane which uses Blazor. I have also contributed to Oqtane by submitting pull requests which have been successfully merged into the framework. 
 
